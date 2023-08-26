@@ -1,0 +1,4 @@
+DB Name : db_a8e2c0_prices
+Login ID: a8e2c0_prices
+MySQL 8.x Server Name : mysql5048.site4now.net
+PW:prices123
